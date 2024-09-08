@@ -87,12 +87,15 @@ body{
         display:flex;
         gap:20px;
         align-items:center;
+        width:auto;
+        justify-content: start;
     
     }
     
     #nav >p{
         font-weight: 700;
         display:block;
+        width:auto;
     }
     
     #cards{
